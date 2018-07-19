@@ -1,0 +1,6 @@
+framework module Pods_CodeFlight {
+  umbrella header "Pods-CodeFlight-umbrella.h"
+
+  export *
+  module * { export * }
+}
